@@ -8,7 +8,7 @@
 
 由于深度学习模型权重及相关资源文件较大，完整的项目文件（包含预训练的 `.pth` 模型、训练日志和完整代码）已打包发布。
 
-👉 **[点击此处下载完整 MVSCL-master.zip (802MB)](在这里粘贴你刚才复制的链接)**
+👉 **[点击此处下载完整 MVSCL-master.zip (802MB)](https://github.com/gelbartschiff-cloud/MVSCL/releases/download/V1.0/MVSCL-master.zip)**
 
 ---
 
